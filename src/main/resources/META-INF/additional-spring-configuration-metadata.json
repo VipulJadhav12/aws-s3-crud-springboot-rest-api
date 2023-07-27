@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "aws.profile",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.profile'"
+  },
+  {
+    "name": "aws.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.bucket'"
+  },
+  {
+    "name": "aws.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.region'"
+  }
+]}
